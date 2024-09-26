@@ -27,6 +27,8 @@ I also bring a diverse range of skills from both **tech** and **business** domai
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat)
 
+_This is most likely updated as I am always expanding my skillset and continuously learning._
+
 ## Academic & Professional Background
 I am currently working on personal and collaborative projects in the field of **AI**, **machine learning**, and **automation**. My experience spans across both **technical** and **business** sectors, allowing me to contribute to various real-world projects and gain a well-rounded perspective.
 
